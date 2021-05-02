@@ -1,1 +1,1 @@
-# angular_study
+# angular study
